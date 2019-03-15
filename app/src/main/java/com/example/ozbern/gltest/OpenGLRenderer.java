@@ -64,7 +64,7 @@ public class OpenGLRenderer implements Renderer {
     public float mTouchDeltaX;
     public float mTouchDeltaY;
 
-    public static final int NumBalls=4;
+    public static final int NumBalls=6;
     public static TBall[] Balls=new TBall[NumBalls];
 
 
